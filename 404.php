@@ -47,7 +47,7 @@
 						<?php  if( !empty( cliper_get_option('error_text') ) ) : ?>
 							<h3><?php echo esc_html( cliper_get_option('error_text') ); ?></h3>
 						<?php else : ?>
-							<h3><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'cliper' ); ?></h3>
+							<h3><?php esc_html_e( 'Oops! You landed on a deadzone. That page can&rsquo;t be found.', 'cliper' ); ?></h3>
 						<?php endif; ?>
 					</div>
 
