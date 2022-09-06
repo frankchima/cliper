@@ -1,0 +1,182 @@
+/* header color */
+:root {
+  --main-color: #F9885E;
+  --main-color-rgb: 249, 136, 294;
+  --white: #ffffff; 
+  --dark: #131313; 
+}
+
+.header__style__13 .cliper-action-header a,
+.header__style__13 .cliper-action-header button {
+    background: var(--main-color) none repeat scroll 0 0;
+    border-radius: 0px;
+    box-shadow:none;
+	
+  
+} 
+
+
+.header__style__13 .cliper-action-header .action-button{
+    background: transparent none repeat scroll 0 0;
+    border-radius: 0px;
+    color:  var(--dark);
+    border: 1px solid var(--dark);
+    box-shadow: none;
+}
+
+.header__style__13 .cliper-action-header .action-button:hover{
+    background: var(--main-color) none repeat scroll 0 0;
+    border-color: var(--main-color);
+    color: var(--white);
+
+}
+
+.header__style__13 .cliper-action-header a.search-button:hover{
+		border: 1px solid  var(--main-color);
+
+}
+.cliper-action-header a:hover, .cliper-action-header button:hover{
+    color:var(--main-color);
+    background: transparent none repeat scroll 0 0;
+}
+
+.search-background{
+    background: var(--main-color);
+}
+.header__style__13 .currency__switcher .nice-select{
+    margin-top: -5px;
+}
+.header__style__13 .currency__switcher .nice-select .current{
+    font-weight: 500;
+    color: var(--dark);
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+.header__style__13 .currency__switcher .nice-select:after{
+    border: none;
+    display: inline;
+    content: "\e64b";
+    font-family: themify;
+    font-size: 12px;
+    border: 0;
+    transition: 0.8s;
+    font-weight: 800;
+    margin-left: 12px;
+    margin-top: -4px;
+    pointer-events: none;
+    position: relative;
+    right: 10px;
+    top: 0;
+}
+.header__style__13 .stellarnav li.has-sub>a:after{
+    content: "";
+}
+ .header__style__13  ul#cliper-nav>li.menu-item .wee{
+      display: none;
+        height: 0px;
+}
+
+.header__style__13  .is-sticky .navbar-header{
+	min-height: 80px;
+}
+
+.header__style__13 .container.container-full-width, .header__style__13 .navifation-top-area .navbar>.container.container-full-width{
+	max-width: 1400px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+  .header__style__13  .container-full-width .col-md-12 {
+		padding-left: 30px;
+	  	padding-right: 30px;
+	}
+.home-v3-service {
+    background-size: 2230px 708px!important;
+}
+.home-v3-client-wrok-slider .elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a:hover{
+	color:  var(--main-color);
+}
+@media only screen and ( max-width: 1440px ) {
+  .header__style__13  .container-full-width .col-md-12 {
+		padding-left: 15px;
+	  	padding-right: 15px;
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	.header__style__13 .push__menu__button {
+		margin-left: 15px;
+	}
+	.home-v3-service {
+    background-size: 2230px 698px!important;
+}
+}
+@media only screen and ( min-width: 1023px ) {
+  .header__style__13   ul#cliper-nav li ul li a:before {
+		content: "";
+	}
+}
+@media only screen and (min-width: 992px) {
+ .header__style__13 .wee{
+        display: none;
+        height: 0px;
+    }
+
+}
+@media only screen and (max-width: 768px) {
+	.be-carosul-next.owl-next.slick-arrow,
+	.be-carosul-prev.owl-prev.slick-arrow
+	{
+		display:none!important;
+	}
+	.home-v3-service-slider .elementor-column{
+		justify-content: center;
+	}
+	.header__style__13 .container.container-full-width, .header__style__13 .navifation-top-area .navbar>.container.container-full-width{
+	overflow: hidden;
+	}
+	.header__style__13 .custom-logo-link img{
+		margin-left: 0px;
+	}
+	.header__style__13 .push__menu__button{
+		margin-left:40px;
+	}
+	.home-v3-service {
+    	background-size: 2230px 690px!important;
+	}
+}
+
+
+@media only screen and (max-width: 425px) {
+		.home-v3-service {
+    	background-size: 2230px 792px!important;
+	}
+	.home-v3-team{
+		height: 350px;
+	}
+}
+
+
+
+@media only screen and (max-width: 375px) {
+		.home-v3-service {
+    	background-size: 2230px 791px!important;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+		.home-v3-service {
+    	background-size: 2230px 883px!important;
+	}
+}
+
+@media only screen and (min-width: 425px) {
+	.skill-items-wrap .skill-item .progressbar{
+		margin: 0 auto;
+	}
+
+}
+.header__style__13 .be__addons__btn .button__title{
+    line-height: 1.5;
+}
+

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath>
+      <rect width="22" height="22" fill="none"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <g transform="translate(-546 -107)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-537 -107)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-528 -107)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-546 -98)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-537 -98)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-528 -98)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-546 -89)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-537 -89)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+    <g transform="translate(-528 -89)">
+      <rect width="4" height="4" transform="translate(546 107)" fill="#438ff9"/>
+    </g>
+  </g>
+</svg>

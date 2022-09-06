@@ -1,0 +1,3403 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cliper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 09:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: cliper"
+
+#: inc/template-tags.php:325
+msgid " By "
+msgstr ""
+
+#: inc/template-tags.php:591
+msgid " By: "
+msgstr ""
+
+#: inc/custom-functions.php:1432
+msgid " Comments"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:151
+msgid " Menu Hamburger Background"
+msgstr ""
+
+#: inc/template-tags.php:447
+msgid " Views"
+msgstr ""
+
+#: inc/template-tags.php:481
+msgid "%"
+msgstr ""
+
+#: inc/template-tags.php:207 inc/template-tags.php:257
+#: inc/template-tags.php:497
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:369 inc/template-tags.php:371
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: Options/Parent-Page.php:19
+#, php-format
+msgid "%1$s WordPress Theme %2$s %3$s"
+msgstr ""
+
+#: inc/custom-functions.php:1046 inc/custom-functions.php:1075
+#, php-format
+msgid "%1s"
+msgstr ""
+
+#: Options/Parent-Page.php:25
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: Options/Parent-Page.php:8
+#, php-format
+msgid "- Version %s"
+msgstr ""
+
+#: inc/template-tags.php:481
+msgid "0"
+msgstr ""
+
+#: inc/template-tags.php:497
+msgid "0 Comment"
+msgstr ""
+
+#: inc/template-tags.php:445
+msgid "0 View"
+msgstr ""
+
+#: inc/template-tags.php:481
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:207 inc/template-tags.php:257
+#: inc/template-tags.php:497
+msgid "1 Comment"
+msgstr ""
+
+#: Options/Menu/Menu.php:50
+msgid "2 Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:51
+msgid "3 Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:52
+msgid "4 Columns"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:53
+msgid "404 Error Page Text"
+msgstr ""
+
+#: 404.php:43
+msgid "404 Not Found"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:9
+msgid "404 Page"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:29
+msgid "404 Page Background"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:15
+msgid "404 Page Settings"
+msgstr ""
+
+#: Options/Menu/Menu.php:53
+msgid "5 Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:54
+msgid "6 Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:55
+msgid "7 Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:56
+msgid "8 Columns"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:109
+msgid "Accent Color"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:116
+msgid "Accent Text Color"
+msgstr ""
+
+#: Options/Taxonomy/Category.php:32
+msgid "Add Category Icon ?"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:33
+msgid "Add Custom Image"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:25
+msgid "Add Custom Preloader ?"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:76
+msgid "Add Elementor Template"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:53
+#: Options/Settings/Footer/Footer-General.php:19
+#: Options/Settings/Footer/Footer-General.php:39
+msgid "Add Footer Template"
+msgstr ""
+
+#: inc/widgets.php:33 inc/widgets.php:46 inc/widgets.php:59 inc/widgets.php:72
+msgid "Add footer widgets here."
+msgstr ""
+
+#: Options/Posts/Gallery.php:35
+msgid "Add Gallery Images"
+msgstr ""
+
+#: Options/Posts/Gallery.php:37
+msgid "Add Images"
+msgstr ""
+
+#: Options/Menu/Menu.php:72
+msgid "Add Menu Bedge"
+msgstr ""
+
+#: Options/Menu/Menu.php:77
+msgid "Add Menu Bedge?"
+msgstr ""
+
+#: Options/User/User.php:49 Options/Settings/Social/Social.php:16
+msgid "Add New Social"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:15
+msgid "Add Social Bookmark"
+msgstr ""
+
+#: Options/User/User.php:48
+msgid "Add Social Share"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:34
+msgid "Add the custom image for preloader."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:32 Options/Settings/Header/Topbar.php:33
+msgid "Add Topbar Template"
+msgstr ""
+
+#: inc/widgets.php:11 inc/widgets.php:21
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/template-tags.php:327 inc/template-tags.php:534
+#: inc/template-tags.php:547
+msgid "ago"
+msgstr ""
+
+#: inc/custom-functions.php:1465
+msgid "All Categories"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:37
+msgid "All Device"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:80
+msgid "Archive Product Per Page"
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:8
+msgid "AUD"
+msgstr ""
+
+#: Options/Posts/Audio.php:30
+msgid "Audio Post Setting"
+msgstr ""
+
+#: Options/Posts/Audio.php:35
+msgid "Audio Url"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Author"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:75
+msgid "Author Color & Hover Color"
+msgstr ""
+
+#: inc/custom-functions.php:1336
+msgid "Back to home Page"
+msgstr ""
+
+#: Options/Menu/Menu.php:99
+msgid "Background color"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:19
+msgid "Background Image"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:238
+#: Options/Settings/Header/Mobile-Menu.php:72
+msgid "Background Opacity"
+msgstr ""
+
+#: Options/Settings/Backup/BackUp.php:8
+msgid "Backup Options"
+msgstr ""
+
+#: Options/Settings/Backup/BackUp.php:14
+msgid "Backup Your All Options"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:8
+msgid "Banner"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:58 Options/Settings/General/Banner.php:37
+msgid "Banner Background Overlay"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:45
+msgid "Banner Custom Overlay"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:15
+msgid "Banner Image"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:32
+msgid "Banner Overlay"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:76 Options/Settings/General/Banner.php:54
+msgid "Banner Overlay Opacity"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:99
+msgid "Banner Text Align"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:67
+msgid "Banner Text Colors"
+msgstr ""
+
+#: inc/required-plugins.php:73
+msgid "Be Adddon"
+msgstr ""
+
+#: inc/required-plugins.php:67
+msgid "Be Core"
+msgstr ""
+
+#: Options/Menu/Menu.php:91
+msgid "Bedge Style"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:9
+msgid "Blog"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:100 Options/Settings/Blog-Post-Page/Blog.php:60
+msgid "Blog & Page Default Options"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:14
+msgid "Blog & Pages Content Area Spacing ( Top / Bottom )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:19
+msgid "Blog & Pages Spacing"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:34
+msgid "Blog Author"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:41
+msgid "Blog Author image"
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:11 Options/Extras/Banner_Ext.php:16
+#: Options/Extras/Banner_Ext.php:22 Options/Extras/Banner_Ext.php:28
+msgid "Blog Banner"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:62
+msgid "Blog Category"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:69
+msgid "Blog Category Single"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:55
+msgid "Blog Comment"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:48
+msgid "Blog Date"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:105 Options/Settings/Blog-Post-Page/Blog.php:65
+msgid "Blog Excerpt Word"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:14
+#: Options/Settings/Blog-Post-Page/Blog.php:19
+msgid "Blog Layout"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:10
+msgid "Blog layout"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:87
+msgid "Blog Navigation"
+msgstr ""
+
+#: inc/custom-functions.php:798
+msgid "Blog Page"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:48
+#: Options/Settings/Blog-Post-Page/Blog.php:53
+msgid "Blog Page Title"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:75
+msgid "Blog Readmore"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:81
+msgid "Blog Readmore Text"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:94
+msgid "Blog Related Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/widgets.php:9 Options/Extras/Blog_Ext.php:22
+msgid "Blog Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Three Columns"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Two Columns"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog-Post-Page.php:9
+msgid "Blog, Post & Page"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:19
+msgid "Body Background ( Color, Image & Gradient Color )"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:22
+#: Options/Settings/General/Typography.php:23
+msgid "Body Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:17
+#: Options/Settings/General/Typography.php:18
+msgid "Body Typography"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:124 Options/Settings/Header/Main-Menu.php:165
+msgid "Button Link"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:140 Options/Settings/Header/Main-Menu.php:181
+msgid "Button Link 2"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:141
+msgid "Button Link Alt"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:116 Options/Settings/Header/Main-Menu.php:157
+msgid "Button Text"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:132 Options/Settings/Header/Main-Menu.php:173
+msgid "Button Text 2"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:133
+msgid "Button Text Alt"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:42
+msgid "Buynow Button Title"
+msgstr ""
+
+#: Options/Parent-Page.php:11
+msgid "BY"
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:9
+msgid "CAD"
+msgstr ""
+
+#: template-parts/header/topbar/topbar-two.php:23
+msgid "Call Us"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgid "Categories"
+msgstr ""
+
+#: inc/breadcrumb.php:79
+msgid "Category"
+msgstr ""
+
+#: Options/Taxonomy/Category.php:51
+msgid "Category Icon"
+msgstr ""
+
+#: Options/Taxonomy/Category.php:59
+msgid "Category Image Icon"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:108
+msgid "Center"
+msgstr ""
+
+#: inc/required-plugins.php:79
+msgid "Classic Editor"
+msgstr ""
+
+#: inc/required-plugins.php:84
+msgid "Classic Widgets"
+msgstr ""
+
+#. Name of the theme
+msgid "Cliper"
+msgstr ""
+
+#: inc/importer.php:13
+msgid "Cliper Demo"
+msgstr ""
+
+#: inc/importer_alt.php:12
+msgid "Cliper Demo Content Importer"
+msgstr ""
+
+#. Description of the theme
+msgid "Cliper is a Bootstrap Based WordPress Theme."
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Composer"
+msgstr ""
+
+#: inc/required-plugins.php:99
+msgid "Contact Form 7"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:43
+msgid "Contact Link"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:35
+msgid "Contact Phone"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:33 Options/Settings/Header/Main-Menu.php:196
+msgid "Container"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:34 Options/Settings/Header/Main-Menu.php:197
+msgid "Container Full Width"
+msgstr ""
+
+#: Options/Settings/Footer/Copyright.php:24
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/custom-functions.php:766
+#, php-format
+msgid "Copyright {COPYRIGHT} %s {YEAR} All Right Reserved"
+msgstr ""
+
+#: Options/Settings/Footer/Copyright.php:30
+#, php-format
+msgid "Copyright {COPYRIGHT} %s {YEAR} All Right Reserved."
+msgstr ""
+
+#: Options/Parent-Page.php:54
+#, php-format
+msgid "Credited by %s"
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:2
+msgid "Currency"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:35
+msgid "Custom Buynow Title?"
+msgstr ""
+
+#: Options/Pages/Page-Css.php:8
+msgid "Custom CSS"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:23 Options/Settings/Scripts/CSS.php:9
+msgid "Custom Css"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:42 Options/Settings/Scripts/CSS.php:15
+msgid "Custom CSS  ( All Device )"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:65 Options/Settings/Scripts/CSS.php:32
+msgid "Custom CSS  ( Medium Device or Ipad Pro )"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:88 Options/Settings/Scripts/CSS.php:49
+msgid "Custom CSS  ( Medium Device or Tablet )"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:111 Options/Settings/Scripts/CSS.php:66
+msgid "Custom CSS  ( mobile Device )"
+msgstr ""
+
+#: Options/Settings/Scripts/JavaScript.php:9
+msgid "Custom JavaScript"
+msgstr ""
+
+#: Options/Settings/Scripts/JavaScript.php:14
+msgid "Custom JavaScript Code"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:24 Options/Pages/Page-Header.php:38
+msgid "Custom Page Title"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:50
+msgid "Custom Preview Title?"
+msgstr ""
+
+#: Options/Settings/Scripts/Scripts.php:9
+msgid "Custom Scripts"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:69
+msgid "Custom Style"
+msgstr ""
+
+#: inc/custom-functions.php:1453 Options/Pages/Page-Footer.php:18
+msgid "Default"
+msgstr ""
+
+#: Options/Menu/Menu.php:38
+msgid "Default Menu Items"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:68
+msgid "Default Style"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:44
+#: Options/Settings/Blog-Post-Page/Page.php:49
+msgid "Disable Next / Prev Navigation"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:13
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: inc/template-tags.php:240 inc/template-tags.php:311
+#: inc/template-tags.php:335 inc/template-tags.php:565
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:27
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/custom-functions.php:1053
+msgid "Edit Comment"
+msgstr ""
+
+#: Options/Posts/Gallery.php:38
+msgid "Edit Gallery"
+msgstr ""
+
+#: Options/Menu/Menu.php:39
+msgid "Elementor Content"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:9
+msgid "Elementor Header Footer"
+msgstr ""
+
+#: inc/required-plugins.php:89
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:57 Options/Settings/Header/Topbar.php:58
+msgid "Email Address"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:104
+msgid "Email Template Setting"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:74
+msgid "Enable 404 Blank Footer?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:67
+msgid "Enable 404 Blank Header?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:60
+msgid "Enable 404 Search Button"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:108 Options/Settings/Header/Main-Menu.php:149
+msgid "Enable Action Button"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:125
+msgid "Enable Action Button Alt"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:18
+msgid "Enable Banner"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:93
+msgid "Enable Curt Button"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:55
+msgid "Enable Custom Memory Limit Size ?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:53
+msgid "Enable Custom Post Title"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:30
+msgid "Enable Custom Title"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:36
+msgid "Enable Custom Upload Size ?"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:148 Options/Settings/Header/Main-Menu.php:394
+msgid "Enable Dropdown Menu Animated Border"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:14
+msgid "Enable Elementor Footer"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:47
+msgid "Enable Elementor Footer / Overwrite Footer"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:34
+msgid "Enable Elementor Global Footer For Blog"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:71
+msgid "Enable Elementor Offcanvas"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:26 Options/Settings/Header/Topbar.php:27
+msgid "Enable Elementor Topbar"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:277
+msgid "Enable Footer Social"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:91 Options/Pages/Page-Header.php:96
+#: Options/Settings/Header/Main-Menu.php:37
+#: Options/Settings/Header/Main-Menu.php:42
+msgid "Enable Header Action Buttons"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:166
+msgid "Enable Header Category Search"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:50 Options/Settings/Social/Social.php:163
+msgid "Enable Header Social"
+msgstr ""
+
+#: Options/Settings/Header/Layout.php:19
+msgid "Enable Header Style"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:117
+msgid "Enable Language Button"
+msgstr ""
+
+#: Options/Menu/Menu.php:28
+msgid "Enable Megamenu?"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:132 Options/Settings/Header/Main-Menu.php:378
+msgid "Enable Menu Animated Border"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:53
+msgid "Enable OffCanvas Description"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:19
+msgid "Enable OffCanvas Logo"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:42
+msgid "Enable OffCanvas Search"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:62
+msgid "Enable OffCanvas Sidebar Button"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:51
+msgid "Enable Overlay"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:97
+msgid "Enable Portfolio Custom Banner Title"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:18
+msgid "Enable Preloader"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:101
+msgid "Enable Promo Menu Button"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:18
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:54
+msgid "Enable Search Button"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:86
+msgid "Enable Single Post Banner Author Thumb Meta"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:79
+msgid "Enable Single Post Banner Bottom Meta"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:72
+msgid "Enable Single Post Banner Top Meta"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:29
+msgid "Enable Svg Upload ?"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:19 Options/Settings/Header/Topbar.php:20
+msgid "Enable Topbar"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:109
+msgid "Enable User Menu Button"
+msgstr ""
+
+#: inc/custom-functions.php:1351
+msgid "Enter here your search query"
+msgstr ""
+
+#: inc/custom-functions.php:1368
+msgid "Enter Password"
+msgstr ""
+
+#: inc/breadcrumb.php:94
+msgid "Error 404"
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:7
+msgid "EUR"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:82
+msgid "Exclude Portfolio"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:81
+msgid "Exclude Portfolio Post"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:74
+msgid "Exclude Post Types ?"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:14
+msgid "Favicon / Site Icon"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:9
+msgid "Favicon Icon"
+msgstr ""
+
+#: Options/Settings/Features/Features.php:16
+msgid "Features & Frameworks"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:43
+msgid "File Upload Size"
+msgstr ""
+
+#: Options/Taxonomy/Category.php:42
+msgid "Font Icon"
+msgstr ""
+
+#: Options/Settings/Footer/Footer.php:9
+msgid "Footer"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:88
+#: Options/Settings/Footer/Footer-General.php:82
+msgid "Footer Background"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:82
+#: Options/Settings/Footer/Footer-General.php:76
+msgid "Footer Background & Overlay"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Bottom.php:9
+msgid "Footer Bottom"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:212
+#: Options/Settings/Footer/Footer-Bottom.php:37
+msgid "Footer Bottom Background"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:206
+#: Options/Settings/Footer/Footer-Bottom.php:32
+msgid "Footer Bottom Background & Border"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:231
+#: Options/Settings/Footer/Footer-Bottom.php:55
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Bottom.php:15
+msgid "Footer Bottom Layout"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:252
+#: Options/Settings/Footer/Footer-Bottom.php:75
+msgid "Footer Bottom Link"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:246
+#: Options/Settings/Footer/Footer-Bottom.php:70
+msgid "Footer Bottom Links Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:264
+#: Options/Settings/Footer/Footer-Bottom.php:86
+msgid "Footer Bottom Space"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:258
+#: Options/Settings/Footer/Footer-Bottom.php:81
+msgid "Footer Bottom Spacing"
+msgstr ""
+
+#: Options/Settings/Footer/Copyright.php:14
+msgid "Footer Copyright"
+msgstr ""
+
+#: Options/Settings/Footer/Copyright.php:19
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:9
+#: Options/Settings/Footer/Footer-General.php:54
+msgid "Footer General Settings"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:194 Options/Settings/Footer/Footer-Top.php:89
+msgid "Footer Heading Before / After Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:185 Options/Settings/Footer/Footer-Top.php:80
+msgid "Footer Heading Border Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:170 Options/Pages/Page-Footer.php:176
+#: Options/Settings/Footer/Footer-Top.php:66
+#: Options/Settings/Footer/Footer-Top.php:71
+msgid "Footer Heading Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:152 Options/Settings/Footer/Footer-Top.php:50
+msgid "Footer Link Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:158 Options/Settings/Footer/Footer-Top.php:55
+msgid "Footer links color"
+msgstr ""
+
+#: inc/setup.php:44
+msgid "Footer Menu"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:107
+#: Options/Settings/Footer/Footer-General.php:101
+msgid "Footer Overlay Background"
+msgstr ""
+
+#: inc/widgets.php:31
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/widgets.php:44
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/widgets.php:57
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:272
+msgid "Footer Social"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:293
+msgid "Footer Social Background Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:302
+msgid "Footer Social Border"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:318
+msgid "Footer Social Border Radius"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:284
+msgid "Footer Social Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:331
+msgid "Footer Social Hover"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:347
+msgid "Footer Social Hover Background Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:356
+msgid "Footer Social Hover Border"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:372
+msgid "Footer Social Hover Border Radius"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:338
+msgid "Footer Social Hover Color"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:75
+msgid "Footer Styling"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:139 Options/Pages/Page-Footer.php:145
+#: Options/Settings/Footer/Footer-Top.php:38
+#: Options/Settings/Footer/Footer-Top.php:43
+msgid "Footer Text Color"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Top.php:9
+msgid "Footer Top"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Top.php:20
+msgid "Footer Top Columns"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Top.php:15
+msgid "Footer Top Columns Layout"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:35 Options/Settings/Header/Main-Menu.php:198
+msgid "Full Width"
+msgstr ""
+
+#: Options/Posts/Gallery.php:30
+msgid "Gallery Post Setting"
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:6
+msgid "GBP"
+msgstr ""
+
+#: Options/Settings/General/General.php:10
+#: Options/Settings/General/Global-Design.php:14
+msgid "General"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:13
+msgid "Get All Options In Customize Panel"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:18
+msgid "Get Options In Customized Panel?"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:8
+msgid "Global Design"
+msgstr ""
+
+#: Options/Settings/Scripts/Analytics.php:9
+msgid "Google Analytics"
+msgstr ""
+
+#: Options/Settings/Scripts/Analytics.php:15
+msgid "Google Analytics Code"
+msgstr ""
+
+#: inc/required-plugins.php:117
+msgid "Gtranslate"
+msgstr ""
+
+#: Options/Settings/Header/Header.php:9
+msgid "Header"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:160
+msgid "Header Bottom Search Category"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:174 Options/Settings/Header/Layout.php:9
+#: Options/Settings/Header/Layout.php:25
+msgid "Header Layout"
+msgstr ""
+
+#: Options/Settings/Header/Layout.php:14
+msgid "Header Layout Style"
+msgstr ""
+
+#: Options/Settings/Scripts/Meta.php:9
+msgid "Header Meta"
+msgstr ""
+
+#: Options/Settings/Scripts/Meta.php:15
+msgid "Header Meta Tags"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:154
+msgid "Header Overwrite?"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:149
+msgid "Header Overwrites"
+msgstr ""
+
+#: inc/setup.php:48
+msgid "Header Promotional Menu"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Header Sidebar"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:45
+msgid "Header Social"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:66 Options/Settings/Social/Social.php:179
+msgid "Header Social Background Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:75 Options/Settings/Social/Social.php:188
+msgid "Header Social Border"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:91 Options/Settings/Social/Social.php:204
+msgid "Header Social Border Radius"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:57 Options/Settings/Social/Social.php:170
+msgid "Header Social Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:104
+msgid "Header Social Hover"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:119
+#: Options/Settings/Social/Social.php:232
+msgid "Header Social Hover Background Color"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:128
+#: Options/Settings/Social/Social.php:241
+msgid "Header Social Hover Border"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:144
+#: Options/Settings/Social/Social.php:257
+msgid "Header Social Hover Border Radius"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:110
+#: Options/Settings/Social/Social.php:223
+msgid "Header Social Hover Color"
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:70 Options/Pages/Page-Header.php:188
+#: Options/Settings/Header/Layout.php:30
+msgid "Header Style"
+msgstr ""
+
+#: inc/setup.php:53
+msgid "Header User Menu ( After Login )"
+msgstr ""
+
+#: inc/setup.php:52
+msgid "Header User Menu ( Before Login )"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:49
+#: Options/Settings/General/Typography.php:50
+msgid "Heading H1 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:44
+#: Options/Settings/General/Typography.php:45
+msgid "Heading H1 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:75
+#: Options/Settings/General/Typography.php:76
+msgid "Heading H2 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:70
+#: Options/Settings/General/Typography.php:71
+msgid "Heading H2 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:101
+#: Options/Settings/General/Typography.php:102
+msgid "Heading H3 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:96
+#: Options/Settings/General/Typography.php:97
+msgid "Heading H3 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:127
+#: Options/Settings/General/Typography.php:128
+msgid "Heading H4 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:122
+#: Options/Settings/General/Typography.php:123
+msgid "Heading H4 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:153
+#: Options/Settings/General/Typography.php:154
+msgid "Heading H5 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:148
+#: Options/Settings/General/Typography.php:149
+msgid "Heading H5 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:180
+#: Options/Settings/General/Typography.php:181
+msgid "Heading H6 Font"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:175
+#: Options/Settings/General/Typography.php:176
+msgid "Heading H6 Typography"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:40
+#: Options/Settings/Footer/Footer-General.php:60
+msgid "Hide Footer ?"
+msgstr ""
+
+#: inc/breadcrumb.php:38 inc/breadcrumb.php:40
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wp.mehedidb.com/cliper"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themeim/portfolio"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:31
+msgid "If you need custom page title you can set here."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:76
+msgid "If you need custom style in page footer you can style here."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:36
+msgid ""
+"If you on dropcaps it will be appear in single blog page. just set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:41
+#: Options/Settings/Footer/Footer-General.php:61
+msgid "If you want do not show the footer you can set here by ( YES / NO )."
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:26
+msgid "If you want to add custom image for preloader you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:19
+msgid ""
+"If you want to all get all options in customized panel you can enable or "
+"disable for getting options."
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:19
+msgid ""
+"If you want to change any header style you can check here it will be appear "
+"on this page."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:75
+msgid ""
+"If you want to enable or disable 404 page blank footer you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:68
+msgid ""
+"If you want to enable or disable 404 page blank header you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:61
+msgid ""
+"If you want to enable or disable 404 page button you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:109 Options/Settings/Header/Main-Menu.php:126
+#: Options/Settings/Header/Main-Menu.php:150
+msgid ""
+"If you want to enable or disable action button in menu section you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:133 Options/Pages/Page-Menu.php:149
+#: Options/Settings/Header/Main-Menu.php:379
+#: Options/Settings/Header/Main-Menu.php:395
+msgid ""
+"If you want to enable or disable animated border in menu item you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:94
+msgid ""
+"If you want to enable or disable cart button in menu section you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:56
+msgid ""
+"If you want to enable or disable custom memory limit size you can set ( YES "
+"/ NO )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:37
+msgid ""
+"If you want to enable or disable custom upload size you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:97 Options/Settings/Header/Main-Menu.php:43
+msgid ""
+"If you want to enable or disable header area action buttons you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:167
+msgid ""
+"If you want to enable or disable header category search in menu section you "
+"can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Layout.php:20
+msgid "If you want to enable or disable header style you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:118
+msgid ""
+"If you want to enable or disable Language button in menu section you can set "
+"( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:32
+msgid ""
+"If you want to enable or disable menu sticky in header section you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:50
+msgid ""
+"If you want to enable or disable Next / Prev pagination form page you can "
+"set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:63
+msgid ""
+"If you want to enable or disable offcanvas button in menu section you can "
+"set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:54
+msgid ""
+"If you want to enable or disable offcanvas description you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:20
+msgid ""
+"If you want to enable or disable offcanvas logo you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:43
+msgid ""
+"If you want to enable or disable offcanvas search you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:21
+msgid ""
+"If you want to enable or disable one page menu link effect it will be effect "
+"inside the page (#) links."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:98
+msgid ""
+"If you want to enable or disable portfolio custom title for portfolio single "
+"post you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:87
+msgid ""
+"If you want to enable or disable post banner author thumb meta you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:80
+msgid ""
+"If you want to enable or disable post banner bottom meta you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:54
+msgid ""
+"If you want to enable or disable post banner title to post title you can set "
+"( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:73
+msgid ""
+"If you want to enable or disable post banner top meta you can set ( YES / NO "
+")"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:19
+msgid "If you want to enable or disable preloader you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:102
+msgid ""
+"If you want to enable or disable pro menu button in menu section you can set "
+"( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:19
+msgid ""
+"If you want to enable or disable scroll to top button you can set ( YES / NO "
+")"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:55
+msgid ""
+"If you want to enable or disable search button in menu section you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:30
+msgid "If you want to enable or disable svg upload you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:51 Options/Settings/Social/Social.php:164
+msgid ""
+"If you want to enable or disable top bar social profile you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:20 Options/Settings/Header/Topbar.php:21
+msgid "If you want to enable or disable topbar you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:110
+msgid ""
+"If you want to enable or disable user menu button in menu section you can "
+"set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:75
+msgid "If you want to exclude any post types you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:181
+msgid ""
+"If you want to overwrite header only for this page you can set enable or "
+"disable for set custom header in this page just set ( YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:155
+msgid ""
+"If you want to overwrite header options in menu section you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:204
+msgid ""
+"If you want to overwrite logo only for this page you can set enable or "
+"disable for set custom logo in this page just set ( YES / NO )"
+msgstr ""
+
+#: Options/Taxonomy/Category.php:33
+msgid "If you want to set category icon you can set from here."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:36
+msgid "If you want to set custom buy now title you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:51
+msgid "If you want to set custom preview title you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:54
+#: Options/Settings/Footer/Footer-General.php:20
+#: Options/Settings/Footer/Footer-General.php:40
+msgid ""
+"If you want to set Elementor template as footer template you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:77
+msgid ""
+"If you want to set Elementor template as offcanvas template you can set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:33 Options/Settings/Header/Topbar.php:34
+msgid ""
+"If you want to set Elementor template as topbar template you can set ( YES / "
+"NO )"
+msgstr ""
+
+#: Options/Menu/Menu.php:29
+msgid "If you want to set megamenu you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Menu/Menu.php:78
+msgid "If you want to set menu bedge you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Menu/Menu.php:85
+msgid "If you want to set menu bedge you can set set here."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:19
+msgid ""
+"If you want to show or hide page banner you can set here by toggle ( YES / "
+"NO )."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:39
+msgid "If you want to show or hide page breadcrumb you can set ( YES / NO )"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:43
+msgid ""
+"If you want to show or hide single blog post breadcrumb you can just set ( "
+"YES / NO )"
+msgstr ""
+
+#: Options/Settings/Backup/BackUp.php:15
+msgid "If you want to take backup your option you can backup here."
+msgstr ""
+
+#: Options/Taxonomy/Category.php:43
+msgid "Image Icon"
+msgstr ""
+
+#: inc/importer_alt.php:13
+msgid "Import Cliper Demo"
+msgstr ""
+
+#: 404.php:55
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/custom-functions.php:1018
+msgid "Leave A Comment"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:107
+msgid "Left"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:26
+msgid "Left Sidebar"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:91
+msgid "Link Active Color"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:36
+msgid "Link Color & Hover Color"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:80
+msgid "links color"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:90
+msgid "Login Page Setting"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:9
+msgid "Logo Upload"
+msgstr ""
+
+#: Options/Parent-Page.php:55
+#, php-format
+msgid "Made with love by %s"
+msgstr ""
+
+#: template-parts/header/topbar/topbar-two.php:30
+msgid "Mail To"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:15
+msgid "Main Image Logo"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:211 Options/Settings/Header/Logo.php:20
+msgid "Main Logo"
+msgstr ""
+
+#: inc/setup.php:39 Options/Pages/Page-Menu.php:8
+#: Options/Settings/Header/Main-Menu.php:9
+msgid "Main Menu"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:14 Options/Settings/Header/Topbar.php:15
+msgid "Mainmenu Topbar"
+msgstr ""
+
+#: inc/importer_alt.php:33 inc/importer_alt.php:43
+msgid "Make sure all the required plugins are activated."
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:24
+msgid "Malicious Option Settings"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:7
+msgid "Malicious Settings"
+msgstr ""
+
+#: Options/Menu/Menu.php:23
+msgid "Megamenu"
+msgstr ""
+
+#: Options/Menu/Menu.php:47
+msgid "Megamenu Columns"
+msgstr ""
+
+#: Options/Menu/Menu.php:35
+msgid "Megamenu Content Type"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:62
+msgid "Memory Limit Size"
+msgstr ""
+
+#: template-parts/header/header-12.php:40
+msgid "Menu"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:102 Options/Settings/Header/Main-Menu.php:48
+msgid "Menu Action Buttons"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:131
+msgid "Menu Active & Hover Color"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:139
+msgid "Menu Active Background Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:140 Options/Settings/Header/Main-Menu.php:385
+msgid "Menu Animated Border Color"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:216
+msgid "Menu Area Background"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:408
+msgid "Menu Area Border Color"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:221
+#: Options/Settings/Header/Mobile-Menu.php:55
+msgid "Menu Background"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:413
+msgid "Menu Border Color"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:171
+msgid "Menu Bottom Border Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:55 Options/Pages/Page-Menu.php:61
+#: Options/Settings/Header/Main-Menu.php:304
+#: Options/Settings/Header/Main-Menu.php:309
+#: Options/Settings/Header/Mobile-Menu.php:123
+msgid "Menu Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:30 Options/Settings/Header/Main-Menu.php:193
+msgid "Menu Container Width"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:18
+msgid "Menu Custom Style ?"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:156 Options/Settings/Header/Main-Menu.php:401
+msgid "Menu Dropdown Animated Border Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:103 Options/Settings/Header/Main-Menu.php:349
+msgid "Menu Dropdown Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:97 Options/Settings/Header/Main-Menu.php:344
+msgid "Menu Dropdown Color & Hover"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:119 Options/Settings/Header/Main-Menu.php:365
+msgid "Menu Dropdown Hover Background Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:111 Options/Settings/Header/Main-Menu.php:357
+msgid "Menu Dropdown Hover Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:69 Options/Settings/Header/Main-Menu.php:317
+msgid "Menu Hover Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:126 Options/Settings/Header/Main-Menu.php:373
+msgid "Menu Item Animated Border"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:28
+msgid "Menu Offcanvas"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:26
+msgid "Menu Position Left"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:27
+msgid "Menu Position Right"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:25
+msgid "Menu Position Top"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:26
+msgid "Menu Sticky"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:251
+#: Options/Settings/Header/Mobile-Menu.php:89
+msgid "Menu Sticky Background"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:76 Options/Pages/Page-Menu.php:82
+#: Options/Settings/Header/Main-Menu.php:324
+#: Options/Settings/Header/Main-Menu.php:329
+msgid "Menu Sticky Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:90 Options/Settings/Header/Main-Menu.php:337
+msgid "Menu Sticky Hover Color"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:43 Options/Settings/Header/Main-Menu.php:205
+msgid "Menu Text Align"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:280
+#: Options/Settings/Header/Main-Menu.php:285
+msgid "Menu Typography"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:24 Options/Settings/Header/Main-Menu.php:188
+msgid "Menu Width & Align"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:81
+msgid "Meta Color & Hover Color"
+msgstr ""
+
+#: inc/setup.php:40 Options/Settings/Header/Mobile-Menu.php:11
+msgid "mobile Menu"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:50
+msgid "mobile Menu Background"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:166
+msgid "mobile Menu Border"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:118
+msgid "mobile Menu Color"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:146
+msgid "mobile Menu Hamburger Color & Background"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:22
+msgid "mobile Menu Layout"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:17
+msgid "mobile Menu Layout & Menu Open Buttons"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:84
+msgid "mobile Menu Sticky Background"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:61
+msgid "mobile Text Logo Color"
+msgstr ""
+
+#: inc/required-plugins.php:94
+msgid "Multi Step Forms"
+msgstr ""
+
+#: inc/custom-functions.php:1253
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/custom-functions.php:1164
+msgid "Newer posts"
+msgstr ""
+
+#: inc/custom-functions.php:870 Options/Settings/Blog-Post-Page/Single.php:62
+msgid "News Details"
+msgstr ""
+
+#: inc/custom-functions.php:1316
+msgid "Next Page"
+msgstr ""
+
+#: inc/custom-functions.php:1177 inc/custom-functions.php:1215
+msgid "Next Post"
+msgstr ""
+
+#: inc/custom-functions.php:1428 inc/template-tags.php:207
+#: inc/template-tags.php:257
+msgid "No comment"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:25
+msgid "No sidebar"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:217 Options/Pages/Page-Header.php:229
+#: Options/Settings/Header/Logo.php:26 Options/Settings/Header/Logo.php:37
+#: Options/Settings/Header/Offcanvas.php:32
+msgid "Note: Please use logo image max width: 250px and max height 100px."
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:60
+msgid "OffCanvas Description"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:48
+msgid "Offcanvas Description"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:14
+#: Options/Settings/Header/Offcanvas.php:26
+msgid "Offcanvas Logo"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:80
+msgid "Offcanvas Menu Active & Hover Color"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:71
+msgid "Offcanvas Menu Color"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:66
+msgid "Offcanvas mobile Menu Color"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:9
+msgid "Offcanvas Panel"
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:37
+msgid "Offcanvas Search"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:158
+msgid "Offcanvas Social"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:217
+msgid "Offcanvas Social Hover"
+msgstr ""
+
+#: inc/custom-functions.php:1252
+msgid "Older Comments"
+msgstr ""
+
+#: inc/custom-functions.php:1163
+msgid "Older posts"
+msgstr ""
+
+#: inc/required-plugins.php:109
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/custom-functions.php:1430
+msgid "One comment"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:20
+msgid "One Page Navigation On ?"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:15
+msgid "One Page Navigation Setting"
+msgstr ""
+
+#: 404.php:50 Options/Settings/Blog-Post-Page/404.php:55
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/breadcrumb.php:37
+msgid "Our Blog"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:126
+#: Options/Settings/Footer/Footer-General.php:120
+msgid "Overlay Opacity"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:180
+msgid "Overwrite Page Header"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:203
+msgid "Overwrite Page Logo"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:9
+msgid "Page"
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:40 Options/Extras/Banner_Ext.php:45
+#: Options/Extras/Banner_Ext.php:51 Options/Extras/Banner_Ext.php:57
+msgid "Page Banner"
+msgstr ""
+
+#: Options/Pages/Page-Css.php:13
+msgid "Page Custom Css"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:29
+msgid "Page Footer"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:35
+msgid "Page Footer Options"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:69
+msgid "Page Footer Styling"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:8
+msgid "Page Header"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:13
+msgid "Page Header Options"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:197
+msgid "Page Logo"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:13
+msgid "Page Main Menu Options"
+msgstr ""
+
+#: Options/Pages/Page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:8
+msgid "Page Typography"
+msgstr ""
+
+#: inc/custom-functions.php:1312
+msgid "Pages:"
+msgstr ""
+
+#: Options/Posts/Audio.php:36
+msgid ""
+"Paste here a valid audio url which is support auto embed with WordPress for "
+"post audio player preview."
+msgstr ""
+
+#: Options/Posts/Video.php:36
+msgid ""
+"Paste here a valid video url which is support auto embed with WordPress for "
+"post audio player preview."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:49 Options/Settings/Header/Topbar.php:50
+msgid "Phone Number"
+msgstr ""
+
+#: Options/Posts/Gallery.php:36
+msgid ""
+"Please Upload OR Select Images From Media Library ( Note: Select Multiple "
+"Image For Gallery )."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/scripts.php:14
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:104
+msgid "Portfolio Banner Title"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:60
+msgid "Post Banner Title"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:9
+msgid "Post Details"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:14
+#: Options/Settings/Blog-Post-Page/Single.php:19
+msgid "Post Details Layout"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:30
+msgid "Post General Settings"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:31
+#: Options/Settings/Blog-Post-Page/Blog.php:36
+msgid "Post Grid Layout"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:46
+msgid "Post Item Background"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:63
+msgid "Post Item Border"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:87
+msgid "Post Item Meta Background"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:104
+msgid "Post Item Meta Hover Background"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:41
+msgid "Post Items"
+msgstr ""
+
+#: Options/Posts/Audio.php:13 Options/Posts/Gallery.php:13
+#: Options/Posts/Video.php:13
+msgid "Post Settings"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:8
+msgid "Preloader"
+msgstr ""
+
+#: template-parts/global/preloader.php:8 template-parts/global/preloader.php:18
+#: template-parts/global/preloader.php:22
+#: template-parts/global/preloader.php:26
+#: template-parts/global/preloader.php:30
+#: template-parts/global/preloader.php:34
+#: template-parts/global/preloader.php:38
+#: template-parts/global/preloader.php:42
+#: template-parts/global/preloader.php:46
+#: template-parts/global/preloader.php:50
+#: template-parts/global/preloader.php:54
+#: template-parts/global/preloader.php:58
+#: template-parts/global/preloader.php:62
+#: template-parts/global/preloader.php:66
+#: template-parts/global/preloader.php:70
+#: template-parts/global/preloader.php:74
+#: template-parts/global/preloader.php:78
+#: template-parts/global/preloader.php:82
+#: template-parts/global/preloader.php:86
+#: template-parts/global/preloader.php:93
+#: template-parts/global/preloader.php:97
+#: template-parts/global/preloader.php:101
+#: template-parts/global/preloader.php:105
+#: template-parts/global/preloader.php:109
+#: template-parts/global/preloader.php:113
+#: template-parts/global/preloader.php:117
+msgid "preloader"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:84
+msgid "Preloader Background"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:78
+msgid "Preloader Background & Color"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:13
+msgid "Preloader ON / OFF"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:108
+msgid "Preloader Text Color"
+msgstr ""
+
+#: inc/custom-functions.php:1317
+msgid "Prev Page"
+msgstr ""
+
+#: inc/custom-functions.php:1176 inc/custom-functions.php:1200
+msgid "Prev Post"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:59
+msgid "Preview"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:57
+msgid "Preview Button Title"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:75
+msgid "Product Archive Setting"
+msgstr ""
+
+#: inc/custom-functions.php:863
+msgid "Product Details"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:24
+msgid "Product Grid Style"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:27
+msgid "Product Grid Style 1"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:28
+msgid "Product Grid Style 2"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:19
+msgid "Product Setting"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:65
+msgid "Product Variable Price Option"
+msgstr ""
+
+#: Options/User/User.php:62 Options/Settings/Social/Social.php:36
+msgid "Profile Url"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Publish Date"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:44
+msgid "Purchase"
+msgstr ""
+
+#: inc/template-tags.php:122 inc/template-tags.php:141
+#: inc/template-tags.php:150 Options/Extras/Blog_Ext.php:82
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Reading Time"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:69
+msgid "Readmore Color & Hover Color"
+msgstr ""
+
+#: template-parts/content/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/custom-functions.php:1278
+msgid "Related Posts"
+msgstr ""
+
+#: Options/Posts/Gallery.php:39
+msgid "Remove Images"
+msgstr ""
+
+#: inc/custom-functions.php:1090
+msgid "Reply"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:60
+msgid "Responsive Ipad / Ipad Pro"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:106
+msgid "Responsive mobile"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:83
+msgid "Responsive Tablet"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:109
+msgid "Right"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:27
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/scripts.php:18
+msgctxt "Roboto font: on or off"
+msgid "off"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:8
+msgid "Scroll To Top"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:65
+msgid "Scroll To Top Animation Time"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:13
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:25
+msgid "Scroll Top Animation"
+msgstr ""
+
+#: inc/custom-functions.php:1352
+msgid "Search"
+msgstr ""
+
+#: inc/custom-functions.php:1330
+msgid "Search ..."
+msgstr ""
+
+#: inc/custom-functions.php:923
+#, php-format
+msgid "Search Result For \"%s\""
+msgstr ""
+
+#: inc/custom-functions.php:922
+msgid "Search Results"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search..."
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Bottom.php:20
+msgid "Select Footer Bottom Style"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:61
+#: Options/Settings/Footer/Footer-General.php:26
+#: Options/Settings/Footer/Footer-General.php:46
+msgid "Select Footer Style"
+msgstr ""
+
+#: Options/Menu/Menu.php:64
+msgid "Select Megamenu Template"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:83
+msgid "Select Offcanvas Template Style"
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:42
+msgid "Select Preloader Style"
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:11
+msgid "Select the Blog style which you want to show on your website."
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:71 Options/Pages/Page-Header.php:189
+#: Options/Settings/Header/Layout.php:31
+msgid "Select the header style which you want to show on your website."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:40 Options/Settings/Header/Topbar.php:41
+msgid "Select Topbar Style"
+msgstr ""
+
+#: inc/custom-functions.php:1023
+msgid "Send Message"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:19
+msgid "Set Favicon Icon"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:232
+#: Options/Settings/Footer/Footer-Bottom.php:56
+msgid "Set footer bottom border color form here."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:195 Options/Settings/Footer/Footer-Top.php:90
+msgid "Set footer footer heading before / after color form here."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:186 Options/Settings/Footer/Footer-Top.php:81
+msgid "Set footer footer heading border color form here."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:177 Options/Settings/Footer/Footer-Top.php:72
+msgid "Set footer footer heading color form here."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:146 Options/Settings/Footer/Footer-Top.php:44
+msgid "Set footer text color form here."
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:43
+msgid "Set Ipad Favicon Icon"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:51
+msgid "Set Ipad Retina Favicon Icon"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:27
+msgid "Set Iphone Favicon Icon"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:35
+msgid "Set Iphone Retina Favicon Icon"
+msgstr ""
+
+#: inc/custom-functions.php:636
+msgid "Set Main Menu Here..."
+msgstr ""
+
+#: Options/Menu/Menu.php:84
+msgid "Set Menu Bedge Text"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:31
+msgid ""
+"Set the 404 page background color, image and gradient color. If you set only "
+"first color field it will be a simple solid color for background and if set "
+"2nd color field too it will be set a gradient color and if you set a image "
+"it will be set a background image."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:30
+msgid "Set the 404 page background."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:127
+#: Options/Settings/Footer/Footer-General.php:121
+msgid ""
+"Set the background footer background overlay opacity input the max value 1 "
+"in decimal."
+msgstr ""
+
+#: Options/Settings/General/Banner.php:21
+msgid "Set the banner background image."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:60 Options/Settings/General/Banner.php:39
+msgid ""
+"Set the banner background overlay color, image and gradient color. If you "
+"set only first color field it will be a simple solid color for background "
+"and if set 2nd color field too it will be set a gradient color and if you "
+"set a image it will be set a background image."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:59 Options/Settings/General/Banner.php:38
+msgid "Set the banner background overlay."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:214
+#: Options/Settings/Footer/Footer-Bottom.php:39
+#: Options/Settings/General/Global-Design.php:21
+msgid ""
+"Set the body background color, image and gradient color. If you set only "
+"first color field it will be a simple solid color for background and if set "
+"2nd color field too it will be set a gradient color and if you set a image "
+"it will be set a background image."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:20
+msgid "Set the body background."
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:23
+#: Options/Settings/General/Typography.php:24
+msgid "Set the body font for whole theme."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:142
+msgid "Set the button link alt here"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:125 Options/Pages/Page-Header.php:141
+#: Options/Settings/Header/Main-Menu.php:166
+#: Options/Settings/Header/Main-Menu.php:182
+msgid "Set the button link here"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:134
+msgid "Set the button text alt here"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:117 Options/Pages/Page-Header.php:133
+#: Options/Settings/Header/Main-Menu.php:158
+#: Options/Settings/Header/Main-Menu.php:174
+msgid "Set the button text here"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:366
+msgid "Set the dropdown background color by color picker"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:110
+msgid "Set the email template accent color."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:117
+msgid "Set the email template accent text color."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:124
+msgid "Set the email template text color."
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:20
+msgid "Set the favicon icon size ( 16px x 16px ) OR ( 32px x 32px )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:44
+msgid ""
+"Set the file upload size here use max value 512MB and minimum value 1MB in "
+"decimal."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:159 Options/Settings/Footer/Footer-Top.php:56
+msgid "Set the footer area link color & hover color."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:90
+#: Options/Settings/Footer/Footer-General.php:84
+msgid ""
+"Set the footer background color, image and gradient color. If you set only "
+"first color field it will be a simple solid color for background and if set "
+"2nd color field too it will be set a gradient color and if you set a image "
+"it will be set a background image."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:89
+#: Options/Settings/Footer/Footer-General.php:83
+msgid "Set the footer background."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:213
+#: Options/Settings/Footer/Footer-Bottom.php:38
+msgid "Set the footer bottom background."
+msgstr ""
+
+#: Options/Settings/Footer/Copyright.php:25
+msgid ""
+"Set the footer copyright text. Use {YEAR} for showing year dynamically and "
+"use &copy; or {COPYRIGHT} for getting dynamically copyright sign."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:109
+#: Options/Settings/Footer/Footer-General.php:103
+msgid ""
+"Set the footer overlay background color, transparent image and gradient "
+"color. If you set only first color field it will be a simple solid color for "
+"background and if set 2nd color field too it will be set a gradient color "
+"and if you set a image it will be set a background image."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:108
+#: Options/Settings/Footer/Footer-General.php:102
+msgid "Set the footer overlay background."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:294
+msgid "Set the footer social bookmark background color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:285
+msgid "Set the footer social bookmark color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:303
+msgid "Set the footer social border form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:319
+msgid "Set the footer social border radius form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:278
+msgid "Set the footer social hide or not."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:348
+msgid "Set the footer social hover bookmark background color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:339
+msgid "Set the footer social hover bookmark color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:357
+msgid "Set the footer social hover border form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:373
+msgid "Set the footer social hover border radius form here."
+msgstr ""
+
+#: Options/Settings/General/Banner.php:92
+msgid ""
+"Set the header banner area link active color by color picker. NOTE: You can "
+"also change header text color form customizer panel."
+msgstr ""
+
+#: Options/Settings/General/Banner.php:81
+msgid "Set the header banner area link color & hover color."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:67 Options/Settings/Social/Social.php:180
+msgid "Set the header social bookmark background color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:58 Options/Settings/Social/Social.php:171
+msgid "Set the header social bookmark color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:76 Options/Settings/Social/Social.php:189
+msgid "Set the header social border form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:92 Options/Settings/Social/Social.php:205
+msgid "Set the header social border radius form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:120
+#: Options/Settings/Social/Social.php:233
+msgid "Set the header social hover bookmark background color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:111
+#: Options/Settings/Social/Social.php:224
+msgid "Set the header social hover bookmark color from here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:129
+#: Options/Settings/Social/Social.php:242
+msgid "Set the header social hover border form here."
+msgstr ""
+
+#: Options/Settings/Social/Social.php:145
+#: Options/Settings/Social/Social.php:258
+msgid "Set the header social hover border radius form here."
+msgstr ""
+
+#: Options/Settings/General/Banner.php:105
+msgid "Set the header text alignment ( Left / Right / Center )"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:73
+msgid ""
+"Set the header text color by color picker. NOTE: You can also change header "
+"text color form customizer panel."
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:50
+#: Options/Settings/General/Typography.php:51
+msgid "Set the heading H1 font for whole theme."
+msgstr ""
+
+#: Options/Pages/Page-Typography.php:76 Options/Pages/Page-Typography.php:102
+#: Options/Pages/Page-Typography.php:128 Options/Pages/Page-Typography.php:154
+#: Options/Pages/Page-Typography.php:181
+#: Options/Settings/General/Typography.php:77
+#: Options/Settings/General/Typography.php:103
+#: Options/Settings/General/Typography.php:129
+#: Options/Settings/General/Typography.php:155
+#: Options/Settings/General/Typography.php:182
+msgid "Set the heading H2 font for whole theme."
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:44
+msgid "Set the ipad favicon icon size ( 72px x 72px )"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:52
+msgid "Set the ipad retina favicon icon size ( 144px x 144px )"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:28
+msgid "Set the iphone favicon icon size ( 57px x 57px )"
+msgstr ""
+
+#: Options/Settings/Favicon/Fav-Icon.php:36
+msgid "Set the iphone retina favicon icon size ( 144px x 144px )"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:77 Options/Settings/General/Banner.php:55
+msgid "Set the main Banner overlay opacity max value is 1 in decimal"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:54
+msgid "Set the main blog page title here like ( Our Blog )"
+msgstr ""
+
+#: Options/Menu/Menu.php:48
+msgid "Set the megamenu columns form here you can set ( 1,2,3,4,5,6,7,8 )"
+msgstr ""
+
+#: Options/Menu/Menu.php:36
+msgid ""
+"Set the megamenu content type form here you can set ( Elementor Template / "
+"Default Menu Items )"
+msgstr ""
+
+#: Options/Settings/Malicious/Malicious.php:63
+msgid "Set the memory limit size here default value is 256M."
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:140
+msgid "Set the menu active background color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:141 Options/Pages/Page-Menu.php:157
+#: Options/Settings/Header/Main-Menu.php:386
+#: Options/Settings/Header/Main-Menu.php:402
+msgid "Set the menu animated border bottom color by color picker"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:223
+#: Options/Settings/Header/Mobile-Menu.php:57
+msgid ""
+"Set the menu background color, image and gradient color. If you set only "
+"first color field it will be a simple solid color for background and if set "
+"2nd color field too it will be set a gradient color and if you set a image "
+"it will be set a background image."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:239
+#: Options/Settings/Header/Mobile-Menu.php:73
+msgid ""
+"Set the menu background opacity here use max value 99 and minimum value 1 in "
+"decimal."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:222
+#: Options/Settings/Header/Mobile-Menu.php:56
+msgid "Set the menu background."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:414
+#: Options/Settings/Header/Mobile-Menu.php:172
+msgid "Set the menu border bottom color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:62 Options/Settings/Header/Main-Menu.php:310
+#: Options/Settings/Header/Mobile-Menu.php:124
+#: Options/Settings/Header/Offcanvas.php:72
+msgid "Set the menu color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:120
+msgid "Set the menu dropdown background color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:104 Options/Settings/Header/Main-Menu.php:350
+msgid "Set the menu dropdown color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:112 Options/Settings/Header/Main-Menu.php:358
+msgid "Set the menu dropdown hover color by color picker"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:286
+msgid "Set the menu font typo for whole theme."
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:152
+msgid "Set the menu hamburger background color by color picker"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:160
+msgid "Set the menu hamburger color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:70 Options/Settings/Header/Main-Menu.php:318
+msgid "Set the menu hover color by color picker"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:132
+#: Options/Settings/Header/Offcanvas.php:81
+msgid "Set the menu item active &hover color by color picker"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:253
+#: Options/Settings/Header/Mobile-Menu.php:91
+msgid ""
+"Set the menu sticky background color, image and gradient color. If you set "
+"only first color field it will be a simple solid color for background and if "
+"set 2nd color field too it will be set a gradient color and if you set a "
+"image it will be set a background image."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:269
+#: Options/Settings/Header/Mobile-Menu.php:107
+msgid ""
+"Set the menu sticky background opacity here use max value 99 and minimum "
+"value 1 in decimal."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:252
+#: Options/Settings/Header/Mobile-Menu.php:90
+msgid "Set the menu sticky background."
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:83 Options/Settings/Header/Main-Menu.php:330
+msgid "Set the menu sticky color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:91 Options/Settings/Header/Main-Menu.php:338
+msgid "Set the menu sticky hover color by color picker"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:44 Options/Settings/Header/Main-Menu.php:206
+msgid "Set the menu text align from here"
+msgstr ""
+
+#: Options/Pages/Page-Menu.php:31 Options/Settings/Header/Main-Menu.php:194
+msgid "Set the menu with form here you can set ( FULLWIDTH / CONTAINER )"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:44
+msgid "Set the mobile menu contact link here."
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:36
+msgid "Set the mobile menu contact phone no."
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:23
+msgid "Set the mobile menu style form here."
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:61
+msgid "Set the offcanvas description text form here."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:48
+msgid ""
+"Set the post background color, image and gradient color. If you set only "
+"first color field it will be a simple solid color for background and if set "
+"2nd color field too it will be set a gradient color and if you set a image "
+"it will be set a background image."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:47
+msgid "Set the post background."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:89
+msgid ""
+"Set the post meta background color, image and gradient color. If you set "
+"only first color field it will be a simple solid color for background and if "
+"set 2nd color field too it will be set a gradient color and if you set a "
+"image it will be set a background image."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:88
+msgid "Set the post meta background."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:106
+msgid ""
+"Set the post meta hover background color, image and gradient color. If you "
+"set only first color field it will be a simple solid color for background "
+"and if set 2nd color field too it will be set a gradient color and if you "
+"set a image it will be set a background image."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:105
+msgid "Set the post meta hover background."
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:86
+msgid ""
+"Set the preloader background color, image, transparent image and gradient "
+"color. If you set only first color field it will be a simple solid color for "
+"background and if set 2nd color field too it will be set a gradient color "
+"and if you set a image it will be set a background image."
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:85
+msgid "Set the preloader background."
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:109
+msgid "Set the preloader text color"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:25
+msgid "Set the product grid style which you want."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:81
+msgid "Set the product per page in all archive pages for edd product."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:66
+msgid "Set the product variable price option which you want."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:127
+msgid ""
+"Set the sidebar widget background color, image and gradient color. If you "
+"set only first color field it will be a simple solid color for background "
+"and if set 2nd color field too it will be set a gradient color and if you "
+"set a image it will be set a background image."
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:126
+msgid "Set the sidebar widget background."
+msgstr ""
+
+#: Options/User/User.php:50 Options/Settings/Social/Social.php:17
+msgid ""
+"Set the social bookmark icon and link here. Easy to use it just click the "
+"add icon button and search your social icon and set the url for the profile ."
+msgstr ""
+
+#: Options/User/User.php:56
+msgid ""
+"Set the social profile icon like ( facebook, twitter, Linkedin, YouTube ect. "
+")"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:30
+msgid ""
+"Set the social profile icon like ( facebook, twitter, linkedin, YouTube ect. "
+")"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:23
+msgid ""
+"Set the social profile title like ( facebook, twitter, Linkedin, YouTube ect."
+" )"
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:265
+#: Options/Settings/Footer/Footer-Bottom.php:87
+msgid "Set the space ( top / bottom ) in footer bottom."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:20
+msgid ""
+"Set the space in blog and page content. It will be appear in top and bottom "
+"section of the page and posts."
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:47 Options/Settings/Header/Logo.php:67
+msgid "Set the text logo color by color picker."
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:55 Options/Settings/Header/Logo.php:75
+msgid "Set the text logo sticky color by color picker."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:58 Options/Settings/Header/Topbar.php:59
+msgid "Set the topbar contact email address."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:50 Options/Settings/Header/Topbar.php:51
+msgid "Set the topbar contact phone number."
+msgstr ""
+
+#: Options/Extras/Blog_Ext.php:106 Options/Settings/Blog-Post-Page/Blog.php:66
+msgid ""
+"Set the words that how many words you want to show in every blog post item."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:54
+msgid "Set your 404 error title."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:105
+msgid "Set your preferred custom banner title for single portfolio post."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:61
+msgid "Set your preferred custom banner title."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:43
+msgid "Set your preferred custom buynow button title."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:39
+msgid "Set your preferred custom page title."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:58
+msgid "Set your preferred custom preview button title."
+msgstr ""
+
+#: inc/template-tags.php:378
+msgid "Share:"
+msgstr ""
+
+#: inc/custom-functions.php:813
+msgid "Shop Page"
+msgstr ""
+
+#: inc/custom-functions.php:473 inc/custom-functions.php:475
+msgid "shortcut icon"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:35
+msgid "Show Dropcaps ?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:33
+msgid "Show Page Breadcrumb "
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Page.php:38
+msgid "Show Page Breadcrumb ?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:42
+msgid "Show Post Breadcrumb ?"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:83
+msgid "Show Posts Pagination ?"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:125
+msgid "Sidebar Widget Background"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:120
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:92
+msgid "Single Portfolio Setting"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:67
+msgid "Single Post Banner Meta"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:48
+msgid "Single Post Custom Title"
+msgstr ""
+
+#: Options/User/User.php:55 Options/Settings/Social/Social.php:29
+msgid "Social Icon"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:22
+msgid "Social Title"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:8
+msgid "Socials"
+msgstr ""
+
+#: template-parts/content/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:268
+#: Options/Settings/Header/Mobile-Menu.php:106
+msgid "Sticky Background Opacity"
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:68
+msgid "Sticky Footer ?"
+msgstr ""
+
+#: Options/Pages/Page-Header.php:223 Options/Settings/Header/Logo.php:31
+msgid "Sticky Logo"
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:31
+msgid "Sticky Menu ?"
+msgstr ""
+
+#: Options/Settings/Header/Mobile-Menu.php:159
+msgid "Sticky Menu Hamburger Background"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:76
+msgid "Sticky Sidebar ?"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:54
+msgid "Sticky Text Logo Color"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:74
+msgid "Sticky Text Logo Color On mobile"
+msgstr ""
+
+#: inc/custom-functions.php:1369
+msgid "Submit"
+msgstr ""
+
+#: inc/breadcrumb.php:81
+msgid "Tag: "
+msgstr ""
+
+#: inc/template-tags.php:369 inc/template-tags.php:371
+msgid "Tags:"
+msgstr ""
+
+#: Options/Settings/General/Banner.php:104
+msgid "Text Align"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:123 Options/Settings/General/Banner.php:72
+msgid "Text Color"
+msgstr ""
+
+#: Options/Menu/Menu.php:98
+msgid "Text color"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:41 Options/Settings/Header/Logo.php:46
+msgid "Text Logo Color"
+msgstr ""
+
+#: Options/Settings/Header/Logo.php:66
+msgid "Text Logo Color On mobile"
+msgstr ""
+
+#: inc/importer_alt.php:73
+msgid "Thank You! for installing demo ( Home V1 )."
+msgstr ""
+
+#: inc/importer_alt.php:88
+msgid "Thank You! for installing demo ( Home V2 )."
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:29
+msgid "Theme Custom CSS"
+msgstr ""
+
+#. Author of the theme
+msgid "themeim"
+msgstr ""
+
+#: inc/custom-functions.php:1367
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:8 Options/Settings/Header/Topbar.php:9
+msgid "Top Bar"
+msgstr ""
+
+#: Options/User/User.php:63
+msgid ""
+"Type the social profile url lik http://facebook.com/yourprofile. also you "
+"can add (facebook, twitter, Linkedin, YouTube etc.)"
+msgstr ""
+
+#: Options/Settings/Social/Social.php:37
+msgid ""
+"Type the social profile url lik http://facebook.com/yourprofile. also you "
+"can add (facebook, twitter, linkedin, YouTube etc.)"
+msgstr ""
+
+#: Options/Settings/General/Typography.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/required-plugins.php:104
+msgid "Unyson Demo Import"
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:96
+msgid "Upload a login page logo max width ( 250px )."
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:34 Options/Extras/Banner_Ext.php:63
+msgid "Upload Background"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:20
+msgid "Upload Error Page Image"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/404.php:21
+msgid "Upload error page image width 1280px and height 800px or larger."
+msgstr ""
+
+#: Options/Settings/Features/EDD.php:95
+msgid "Upload Login Page Logo"
+msgstr ""
+
+#: Options/Extras/Banner_Ext.php:35 Options/Extras/Banner_Ext.php:64
+msgid "Upload main Image width 1200px and height 400px."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:212 Options/Settings/Header/Logo.php:21
+msgid "Upload main logo width 180px and height 65px."
+msgstr ""
+
+#: Options/Settings/Header/Offcanvas.php:27
+msgid "Upload offcanvas logo width 180px and height 80px."
+msgstr ""
+
+#: Options/Pages/Page-Header.php:224 Options/Settings/Header/Logo.php:32
+msgid "Upload sticky logo width 180px and height 65px."
+msgstr ""
+
+#: template-parts/header/actions/action-currency.php:5
+msgid "USD"
+msgstr ""
+
+#: Options/User/User.php:42
+msgid "User Social Bookmark"
+msgstr ""
+
+#: Options/Posts/Video.php:30
+msgid "Video Post Setting"
+msgstr ""
+
+#: Options/Posts/Video.php:35
+msgid "Video Url"
+msgstr ""
+
+#: inc/template-tags.php:459
+msgid "Views"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:142
+msgid "Widget Border"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:167
+msgid "Widget link Color"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:148
+msgid "Widget Title"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:154
+msgid "Widget Title Before"
+msgstr ""
+
+#: Options/Settings/General/Global-Design.php:161
+msgid "Widget Title Border"
+msgstr ""
+
+#: inc/custom-functions.php:856 Options/Settings/Blog-Post-Page/Single.php:106
+msgid "Work Details"
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:70 Options/Settings/Scripts/CSS.php:37
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be  minimum 1024px maximum 1366px."
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:93 Options/Settings/Scripts/CSS.php:54
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be  minimum 768px maximum 992px."
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:116 Options/Settings/Scripts/CSS.php:71
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be maximum 767px."
+msgstr ""
+
+#: Options/Extras/Custom_Css_Ext.php:47 Options/Settings/Scripts/CSS.php:20
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post."
+msgstr ""
+
+#: Options/Pages/Page-Css.php:18
+msgid ""
+"Write custom css here with css selector. this css will be applied in this "
+"page."
+msgstr ""
+
+#: Options/Settings/Scripts/JavaScript.php:19
+msgid ""
+"Write custom javaScript here with javascript selector. this javascript code "
+"will be applied in all pages and post."
+msgstr ""
+
+#: Options/Settings/Scripts/Analytics.php:20
+msgid ""
+"Write Here your Google Analytics Code. for get the analytics result. Just "
+"paste your google analytics code."
+msgstr ""
+
+#: Options/Settings/Scripts/Meta.php:20
+msgid ""
+"Write Here your header meta tag. example: ( <meta name=\"author\" "
+"content=\"ShapeReign\"> )"
+msgstr ""
+
+#: template-parts/post/author-bio.php:14
+msgid "Writen By"
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:20
+msgid ""
+"You can chose and select blog layout style type from here. NOTE: If you "
+"select left or right sidebar but not use any widget it will get 10 columns."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:37
+msgid "You can chose and select blog post grid layout style type from here."
+msgstr ""
+
+#: Options/Menu/Menu.php:65
+msgid ""
+"You can chose and select elementor megamenu content template from here.."
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Bottom.php:21
+msgid "You can chose and select footer bottom type here.."
+msgstr ""
+
+#: Options/Settings/Footer/Footer-Top.php:21
+msgid "You can chose and select footer layout style type from here.."
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:47
+msgid ""
+"You can chose and select footer type here, it will be effect in global blog "
+"default pages template.."
+msgstr ""
+
+#: Options/Pages/Page-Footer.php:62
+#: Options/Settings/Footer/Footer-General.php:27
+msgid "You can chose and select footer type here.."
+msgstr ""
+
+#: Options/Settings/Header/Main-Menu.php:84
+msgid ""
+"You can chose and select offcanvas template type here, it will be effect in "
+"offcanvas panel content template.."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Single.php:20
+msgid ""
+"You can chose and select post details layout style type from here. NOTE: If "
+"you select left or right sidebar but not use any widget it will get 10 "
+"columns."
+msgstr ""
+
+#: Options/Pages/Page-Topbar.php:41 Options/Settings/Header/Topbar.php:42
+msgid "You can chose and select topbar type here.."
+msgstr ""
+
+#: Options/Settings/Footer/Footer-General.php:69
+msgid "You can set footer sticky here. just set ( YES / NO )."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:84
+msgid ""
+"You can set show or hide posts pagination set ( YES / NO ) for OFF or ON."
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:26
+msgid "You can set specific easing animation style in every page form here."
+msgstr ""
+
+#: Options/Settings/Preloader/Pre-Loader.php:43
+msgid "You can set specific preloader style in every page form here."
+msgstr ""
+
+#: Options/Settings/Blog-Post-Page/Blog.php:77
+msgid ""
+"You can set sticky blog page sidebar here. just set ( YES / NO ) for OFF or "
+"ON."
+msgstr ""
+
+#: Options/Settings/Scroll-Top/Scroll-Top-Button.php:66
+msgid "You can set time for animation."
+msgstr ""
+
+#: inc/custom-functions.php:1020
+msgid "Your Comment"
+msgstr ""
+
+#: inc/custom-functions.php:1097
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-functions.php:998
+msgid "Your Email *"
+msgstr ""
+
+#: inc/custom-functions.php:995
+msgid "Your Name *"
+msgstr ""

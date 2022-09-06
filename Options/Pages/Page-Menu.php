@@ -1,0 +1,163 @@
+<?php
+
+/*-----------------------------------
+PAGE MENU SECTION
+------------------------------------*/
+CSF::createSection( CLIPER_META_KEY,
+    array(
+        'title'  => esc_html__( 'Main Menu', 'cliper' ),
+        'parent' => 'Page_Meta_Tab',
+        'fields' => array(
+            array(
+                'type'    => 'subheading',
+                'content' => esc_html__( 'Page Main Menu Options', 'cliper' ),
+            ),
+            array(
+                'id'      => 'enable_header_styling',
+                'type'    => 'switcher',
+                'title'   => esc_html__( 'Menu Custom Style ?', 'cliper' ),
+                'desc'    => esc_html__( 'If you want to change any header style you can check here it will be appear on this page.', 'cliper' ),
+                'default' => false,
+            ),
+            array(
+                'type'       => 'subheading',
+                'content'    => esc_html__( 'Menu Width & Align', 'cliper' ),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_width',
+                'type'       => 'select',
+                'title'      => esc_html__( 'Menu Container Width', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu with form here you can set ( FULLWIDTH / CONTAINER )', 'cliper' ),
+                'options'    => array(
+                    'container'                 => esc_html__( 'Container', 'cliper' ),
+                    'container container-full-width' => esc_html__( 'Container Full Width', 'cliper' ),
+                    'container-fluid'           => esc_html__( 'Full Width', 'cliper' ),
+                ),
+                'default'    => 'container container-full-width',
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_align',
+                'type'       => 'select',
+                'title'      => esc_html__( 'Menu Text Align', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu text align from here', 'cliper' ),
+                'options'    => array(
+                    'left'   => 'Left',
+                    'center' => 'Center',
+                    'right'  => 'Right',
+                ),
+                'default'    => 'center',
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'type'       => 'subheading',
+                'content'    => esc_html__( 'Menu Color', 'cliper' ),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_hover',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Hover Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu hover color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'type'       => 'subheading',
+                'content'    => esc_html__( 'Menu Sticky Color', 'cliper' ),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_sticky_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Sticky Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu sticky color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_sticky_hover_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Sticky Hover Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu sticky hover color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'type'       => 'subheading',
+                'content'    => esc_html__( 'Menu Dropdown Color & Hover', 'cliper' ),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_dropdown_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Dropdown Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu dropdown color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_dropdown_hover_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Dropdown Hover Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu dropdown hover color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_dropdown_hover_background',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Dropdown Hover Background Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu dropdown background color by color picker', 'cliper' ),
+                'output'     => array(),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'type'       => 'subheading',
+                'content'    => esc_html__( 'Menu Item Animated Border', 'cliper' ),
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'enable_menu_item_animated_border',
+                'type'       => 'switcher',
+                'title'      => esc_html__( 'Enable Menu Animated Border', 'cliper' ),
+                'desc'       => esc_html__( 'If you want to enable or disable animated border in menu item you can set ( YES / NO )', 'cliper' ),
+                'default'    => false,
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_item_animated_border_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Animated Border Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu animated border bottom color by color picker', 'cliper' ),
+                'output'     => array( 'background' => 'ul#cliper-nav > li.menu-item .wee' ),
+                'dependency' => array( 'enable_header_styling|enable_menu_item_animated_border', '==|==', 'true|true' ),
+            ),
+            array(
+                'id'         => 'enable_dropdown_menu_item_animated_border',
+                'type'       => 'switcher',
+                'title'      => esc_html__( 'Enable Dropdown Menu Animated Border', 'cliper' ),
+                'desc'       => esc_html__( 'If you want to enable or disable animated border in menu item you can set ( YES / NO )', 'cliper' ),
+                'default'    => false,
+                'dependency' => array( 'enable_header_styling', '==', 'true' ),
+            ),
+            array(
+                'id'         => 'menu_dropdown_item_animated_border_color',
+                'type'       => 'color',
+                'title'      => esc_html__( 'Menu Dropdown Animated Border Color', 'cliper' ),
+                'desc'       => esc_html__( 'Set the menu animated border bottom color by color picker', 'cliper' ),
+                'output'     => array( 'background' => 'ul#cliper-nav li ul li a:after' ),
+                'dependency' => array( 'enable_header_styling|enable_dropdown_menu_item_animated_border', '==|==', 'true|true' ),
+            ),
+        ),
+    )
+);

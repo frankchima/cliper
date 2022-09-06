@@ -1,0 +1,283 @@
+/*Multi Step Form*/
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:before {
+    position: absolute !important;
+    left: 15px !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+    display: inline-block !important;
+    height: 45px !important;
+    width: 45px !important;
+    line-height: 45px !important;
+    font-size: 20px !important;
+    font-weight: 700;
+    background-color: #E8F1FF !important;
+    color: #1CACF3 !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:after {
+    display: none;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step {
+    margin: 0 !important;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 15px 25px #F236741A;
+    border-radius: 5px;
+    padding: 25px 26px 25px 75px !important;
+    width: auto !important;
+    margin-right: 20px !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:last-child {
+    margin-right: 0 !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar {
+    position: initial !important;
+}
+
+#multi-step-form .fw-progress-bar-container {
+    margin-top: 0 !important;
+}
+
+#multi-step-form .fw-progress-wrap {
+    min-height: 0 !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar {
+    height: 100% !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step .fw-txt-ellipsis {
+    display: inline !important;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #546e7a !important;
+    margin-left: 0px;
+}
+
+.fw-wizard-step-header-container {
+    background: #F8F6FA;
+    padding: 38px 38px 40px;
+    margin-bottom: 0 !important;
+    border-radius: 10px 10px 0 0;
+}
+
+.fw-progress-bar-container {
+    background: #F8F6FA;
+    padding: 0 38px 50px !important;
+    margin-bottom: 0 !important;
+}
+
+.fw-wizard-step-container {
+    background: #F8F6FA;
+    padding: 0 38px 50px !important;
+    margin-bottom: 0 !important;
+}
+
+#multi-step-form .fw-wizard-buttons {
+    background: #438FF9;
+    padding: 30px 40px 40px 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 0 0 10px 10px;
+    margin-top: 0 !important;
+}
+
+#multi-step-form .fw-step-part {
+    border-left: 0 !important;
+    background-color: transparent !important;
+}
+
+#multi-step-form .fw-step-part > div {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#multi-step-form .fw-wizard-buttons button, #multi-step-form .fw-wizard-buttons .fw-btn {
+    padding: 0 25px !important;
+    border-radius: 50px !important;
+    color: #2B1B9A !important;
+    text-transform: capitalize;
+    display: inline-block;
+    font-weight: 600;
+    background-color: #fff !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    transition: all 500ms;
+    border: 2px solid #fff !important;
+}
+
+#multi-step-form .fw-wizard-buttons button:hover, #multi-step-form .fw-wizard-buttons .fw-btn:hover {
+    border: 2px solid #fff;
+    color: #fff !important;
+    opacity: 1 !important;
+    background-color: transparent !important;
+}
+
+#multi-step-form .fw-btn-submit, #multi-step-form .fw-toggle-summary {
+    padding: 0 25px !important;
+    border-radius: 10px !important;
+    background-color: #438FF9 !important;
+    text-transform: capitalize;
+    display: inline-block;
+    font-weight: 600 !important;
+    color: #fff !important;
+    transition: all 500ms;
+    border: 2px solid #438FF9 !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step:last-child:before,
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-active:last-child:before {
+    padding: 0 !important;
+}
+
+#multi-step-form .fw-progress-bar .fw-progress-step:last-child:before {
+    content: inherit !important;
+}
+
+#multi-step-form .fw-file-upload-input + label {
+    color: #222 !important;
+    cursor: pointer !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    background: #F9F9F9 !important;
+    border: 1px solid #E6E6E6 !important;
+    padding: 8px 30px !important;
+    text-transform: capitalize;
+}
+
+#multi-step-form .fw-wizard-step.fw-current h2.fw-step-part-title {
+    font-size: 24px !important;
+    font-weight: 700 !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+}
+
+#multi-step-form [data-type=fw-radio] label:before, #multi-step-form [data-type=fw-checkbox] label:before {
+    height: 18px !important;
+    width: 18px !important;
+    line-height: 18px !important;
+}
+
+#multi-step-form [data-type=fw-radio] label, #multi-step-form [data-type=fw-checkbox] label {
+    padding-left: 25px !important;
+    line-height: 26px !important;
+    font-size: 16px !important;
+    margin-right: 35px !important;
+}
+
+#multi-step-form .fw-step-block {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 5px #F236741A;
+    border-radius: 5px;
+    padding: 25px 20px 30px !important;
+}
+
+#multi-step-form .fw-step-block[data-type='fw-paragraph'] {
+    padding: 0 !important;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+#multi-step-form.fw-large-container .fw-progress-wrap .fw-progress-bar .fw-progress-step.fw-active:last-child:before {
+    font-size: 25px !important;
+}
+
+#multi-step-form .fw-wizard-step-container h3 {
+    margin-bottom: 15px !important;
+    margin-top: 0 !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    position: relative;
+    z-index: 0;
+}
+
+#multi-step-form .fw-wizard-step-container h3:before {
+    width: 3px;
+    height: 18px;
+    background: #438FF9;
+    content: "";
+    display: inline-block;
+    z-index: 1;
+    margin-right: 20px;
+    position: relative;
+    top: 2px;
+    margin-left: -20px;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step.fw-visited:before {
+    padding: 0 !important;
+}
+
+#multi-step-form .fw-paragraph-container p {
+    font-weight: 700 !important;
+    font-size: 20px !important;
+}
+
+#multi-step-form button.fw-toggle-summary {
+    border: 2px solid #2B1B9A !important;
+    background-color: transparent !important;
+    color: #2B1B9A !important;
+    transition: all 500ms ease-in-out;
+}
+
+#multi-step-form .fw-btn-submit:hover {
+    border: 2px solid #2B1B9A !important;
+    background-color: transparent !important;
+    color: #2B1B9A !important;
+
+}
+
+#multi-step-form button.fw-toggle-summary:hover {
+    background-color: #438FF9 !important;
+    color: #fff !important;
+    border-color: #438FF9 !important;
+}
+
+#multi-step-form.fw-large-container .fw-progress-bar-container {
+    width: 100% !important;
+}
+
+#multi-step-form div.fw-step-summary-field {
+    border: none !important;
+    padding: 0 !important;
+    background-color: transparent !important;
+}
+
+#multi-step-form .fw-wizard-buttons button, #multi-step-form .fw-wizard-buttons .fw-btn {
+    font-weight: 700 !important;
+}
+
+@media only screen and  (max-width: 1024px) {
+    #multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step {
+        margin-bottom: 15px !important;
+    }
+}
+
+@media only screen and  (max-width: 768px) {
+    #multi-step-form.fw-large-container .fw-progress-bar .fw-progress-step {
+        margin-right: 0 !important;
+    }
+
+    #multi-step-form .fw-alert-user {
+        display: none !important;
+    }
+
+    #multi-step-form .fw-wizard-step-header h2 {
+        font-size: 2em !important;
+    }
+
+    #multi-step-form .fw-wizard-step.fw-current h2.fw-step-part-title {
+        font-size: 20px;
+    }
+}
+
+@media only screen and  (max-width: 550px) {
+    #multi-step-form .fw-wizard-buttons {
+        display: block;
+    }
+
+}
