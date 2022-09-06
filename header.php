@@ -25,7 +25,7 @@ $profile_url     = '//gmpg.org/xfn/11';
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="<?php echo esc_url( $profile_url ); ?>">
-        <meta name="theme-color" content="#319197">
+        <meta name="theme-color" content="#000000">
 	<?php wp_head(); ?>
 </head>
 
